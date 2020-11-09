@@ -18,7 +18,7 @@ ENCRYPTED_OC_API_TOKEN = ""
 
 def greeting():
     """
-        Greets the user.
+        Greets the useraaaa.
     """
 
     welcome_message = f"Hello! Thanks for using your CI/CD pipeline action.\n"
